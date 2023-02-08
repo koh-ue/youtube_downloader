@@ -1,4 +1,4 @@
-# YOUTUBE_DOWNLOADER
+# YOUTUBE DOWNLOADER
 
 This project is for downloading youtube videos from a single url or a playlist url into any format of files from .mp4 to .mp3.
 
