@@ -9,11 +9,11 @@ You can create the same anaconda environment by
 
 `conda create --name <ENVIRONMENT_NAME> --file conda_requirements.txt`.
 
-### Minimum Usage
+### Minimum Usage 
 
-when downloading youtube videos, 
+`python src/script/base/youtube_download.py --url <VIDEO_URL>`
 
-`python src/script/base/youtube_download.py --url <VIDEO_URL>`.
+This command will download `<VIDEO_URL>` in `downloads` folder.
 
 ### Options
 
