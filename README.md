@@ -1,6 +1,6 @@
 # YOUTUBE_DOWNLOADER
 
-This project is for downloading youtube videos from a single url or a playlist url.
+This project is for downloading youtube videos from a single url or a playlist url into any format of files from .mp4 to .mp3.
 
 ## Usage
 
@@ -13,7 +13,7 @@ You can create the same anaconda environment by
 
 `python src/script/base/youtube_download.py --url <VIDEO_URL>`
 
-This command will download `<VIDEO_URL>` in `downloads` folder.
+This command will download `<VIDEO_URL>` in `downloads` folder as .mp4 movie.
 
 ### Options
 
