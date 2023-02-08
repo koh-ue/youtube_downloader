@@ -13,7 +13,7 @@ You can create the same anaconda environment by
 
 when downloading youtube videos, 
 
-`python src/script/base/youtube_download.py --url <VIDEO_URL>`
+`python src/script/base/youtube_download.py --url <VIDEO_URL>`.
 
 ### Options
 
